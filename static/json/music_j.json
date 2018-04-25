@@ -1,0 +1,47 @@
+ [
+            {
+                "movieId": "151951",
+                "musicName": "摇滚",
+                "pic_url": "http://pic95.nipic.com/file/20160412/19189796_204433390001_2.jpg",
+                "score":8.2
+            },
+            {
+                "movieId": "172743",
+                "musicName": "布鲁斯",
+                "pic_url": "http://img3.redocn.com/tupian/20160119/landiaoyinlehaibaosheji_5780207.jpg",
+                "score":6.6
+            },
+            {
+                "movieId": "177879",
+                "musicName": "JAZZ",
+                "pic_url": "http://pic122.nipic.com/file/20170217/24291700_135052650000_2.jpg",
+               "score":7.6
+            },
+            {
+                "movieId": "190465",
+                "musicName": "年度录音棚",
+                "pic_url": "http://pic27.nipic.com/20130320/7439876_234749918000_2.jpg",
+                "score":6.9
+            },
+           	{
+                "movieId": "151951",
+                "musicName": "摇滚",
+                "pic_url": "http://pic95.nipic.com/file/20160412/19189796_204433390001_2.jpg",
+                "score":8.2
+            },
+            {
+                "movieId": "172743",
+                "musicName": "布鲁斯",
+                "pic_url": "http://img3.redocn.com/tupian/20160119/landiaoyinlehaibaosheji_5780207.jpg",
+                "score":6.6
+            },
+            {
+                "movieId": "177879",
+                "musicName": "JAZZ",
+                "pic_url": "http://pic122.nipic.com/file/20170217/24291700_135052650000_2.jpg",
+               "score":7.6
+            }
+           
+            
+        ]
+

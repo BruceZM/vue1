@@ -1,0 +1,45 @@
+{
+    "cates":[
+    	{
+    		"img":"/static/images/22291022--w_380_h_160.png",
+	    	"tag":"订单查询"
+
+    	},
+    	{
+    		"img":"/static/images/22443638--w_380_h_160.png",
+	    	"tag":"茵乐汇"
+
+    	},
+    	{
+    		"img":"/static/images/23380022--w_380_h_160.png",
+	    	"tag":"积分商城"
+
+    	},
+    	{
+    		"img":"/static/images/23383066--w_380_h_160.png",
+	    	"tag":"积分宝典"
+
+    	},
+    	{
+    		"img":"/static/images/23391377--w_380_h_160.png",
+	    	"tag":"我的茵蔓"
+
+    	},
+    	{
+    		"img":"/static/images/23393370--w_380_h_160.png",
+	    	"tag":"签到送礼"
+
+    	},
+    	{
+    		"img":"/static/images/23395823--w_380_h_160.png",
+	    	"tag":"衣物保养"
+
+    	},
+    	{
+    		"img":"/static/images/23415612--w_380_h_160.png",
+	    	"tag":"在线客服"
+
+    	}
+    		
+    ]
+}

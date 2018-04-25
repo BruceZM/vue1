@@ -1,0 +1,18 @@
+网易云音乐
+
+
+19723756: "飙升榜",
+3779629: "新歌榜",
+2884035: "原创榜",
+21845217: "KTV麦榜",
+4395559: "华语金曲榜",
+98833242: "我的专辑",
+
+URI: http://music.163.com/api/playlist/detail?id=具体值
+
+举例：新歌榜
+http://music.163.com/api/playlist/detail?id=19723756
+
+
+豆瓣Api V2（测试版）所有端口参考
+https://developers.douban.com/wiki/?title=api_v2

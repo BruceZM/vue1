@@ -1,0 +1,54 @@
+ [
+            {
+                "movieId": "151951",
+                "movieName": "美国队长2",
+                "pic_url": "http://img31.mtime.cn/mt/2014/03/16/154554.36400206_96X128.jpg",
+                "score":8.2
+            },
+            {
+                "movieId": "172743",
+                "movieName": "魔警",
+                "pic_url": "http://img31.mtime.cn/mt/2014/04/09/085413.72005937_96X128.jpg",
+                "score":6.6
+            },
+            {
+                "movieId": "177879",
+                "movieName": "里约大冒险2",
+                "pic_url": "http://img31.mtime.cn/mt/2014/03/20/091804.71943568_96X128.jpg",
+               "score":7.6
+            },
+            {
+                "movieId": "190465",
+                "movieName": "超验骇客",
+                "pic_url": "http://img31.mtime.cn/mt/2014/03/07/165346.19559684_96X128.jpg",
+                "score":6.9
+            },
+            {
+                "movieId": "209220",
+                "movieName": "最佳嫌疑人",
+                "pic_url": "http://img31.mtime.cn/mt/2014/04/14/142239.57219598_96X128.jpg",
+                 "score":5.2
+            },           
+             {
+                "movieId": "177879",
+                "movieName": "里约大冒险2",
+                "pic_url": "http://img31.mtime.cn/mt/2014/03/20/091804.71943568_96X128.jpg",
+                "score":8.6
+            },
+             {
+                "movieId": "7879",
+                "movieName": "超凡蜘蛛侠2",
+                "pic_url": "http://i1.sinaimg.cn/gm/2014/0415/U10229P115DT20140415134404.jpg",
+                "score":8.1
+            },
+            {
+                "movieId": "7879",
+                "movieName": "斯巴达300勇士",
+                "pic_url": "http://gb.cri.cn/mmsource/images/2013/06/13/99/10992921134942500787.jpg",
+                "score":9.2
+            }
+          
+            
+            
+        ]
+

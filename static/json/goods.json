@@ -1,0 +1,60 @@
+{
+    "cates":[
+    	{
+    		"img":"/static/images/17393160.jpg",
+	    	"tag":"T桖"
+
+    	},
+    	{
+    		"img":"/static/images/17394028.jpg",
+	    	"tag":"衬衫"
+
+    	},
+    	{
+    		"img":"/static/images/17394887.jpg",
+	    	"tag":"连衣裙"
+
+    	},
+    	{
+    		"img":"/static/images/17401668.jpg",
+	    	"tag":"毛衣/羊绒"
+
+    	},
+    	{
+    		"img":"/static/images/17402556.jpg",
+	    	"tag":"针织衫"
+
+    	},
+    	{
+    		"img":"/static/images/17403394.jpg",
+	    	"tag":"风衣外套"
+
+    	},
+    	{
+    		"img":"/static/images/17404119.jpg",
+	    	"tag":"半身裙"
+
+    	},
+    	{
+    		"img":"/static/images/17404762.jpg",
+	    	"tag":"裤子"
+
+    	},
+    	{
+    		"img":"/static/images/17405568.jpg",
+	    	"tag":"童装"
+
+    	},
+    	{
+    		"img":"/static/images/17413691.jpg",
+	    	"tag":"鞋子"
+
+    	},
+    	{
+    		"img":"/static/images/17414544.jpg",
+	    	"tag":"配饰"
+
+    	}
+    		
+    ]
+}
