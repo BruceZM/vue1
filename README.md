@@ -1,4 +1,3 @@
-# douban
 
 > A Vue.js project
 
